@@ -1,7 +1,7 @@
-# CustomFilterView
+实现页面的筛选功能   
 
-实现页面的筛选功能
-使用方法
+使用方法  
+
 先在 build.gradle(Project:XXXX) 的 repositories 添加 maven { url 'https://jitpack.io' } 一定要加上这个，否则会提示依赖失败
 
 ```java
@@ -25,8 +25,4 @@ allprojects {
    implementation 'com.github.wcx201912:CustomFilterView:v1.0.0'
 }
 ```
-
-
-
-
 
