@@ -1,0 +1,3 @@
+include ':Filterlibrary'
+include ':app'
+rootProject.name = "CustomFilterView"
